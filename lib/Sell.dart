@@ -1,9 +1,6 @@
-class Sell{
+class Sell {
+  String name;
+  Object content;
 
-String name;
-Object content;
-
-Sell({this.name,this.content});
-
-
+  Sell({this.name, this.content});
 }
